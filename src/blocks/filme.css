@@ -1,0 +1,74 @@
+.filme__info {
+  display: flex;
+  flex-direction: column;
+  max-width: 800px;
+  margin-top: 18px;
+  padding: 0 8px;
+  margin: 0 auto;
+}
+
+.filme__title {
+  margin: 14px 0;
+}
+
+.filme__poster {
+  width: 900px;
+  max-width: 100%;
+  max-height: 340px;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
+.filme__sinopse {
+  margin-top: 14px;
+}
+
+.filme__info span {
+  margin: 8px 0;
+}
+
+.filme__avaliacao {
+  margin-top: 14px;
+}
+
+.filme__button-save {
+  margin-right: 12px;
+  margin-top: 14px;
+  margin-left: 0;
+  font-size: 20px;
+  border: 0;
+  outline: none;
+  padding: 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.5s;
+}
+
+.filme__button-trailer {
+  margin-right: 12px;
+  margin-top: 14px;
+  margin-left: 0;
+  font-size: 20px;
+  border: 0;
+  outline: none;
+  padding: 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: all 0.5s;
+}
+
+.filme__area-buttons button:hover {
+  background-color: brown;
+  color: #fff;
+}
+
+.filme__area-buttons a {
+  text-decoration: none;
+  color: #000;
+  transition: all 0.5s;
+}
+
+.filme__area-buttons a:hover {
+  color: #fff;
+}
