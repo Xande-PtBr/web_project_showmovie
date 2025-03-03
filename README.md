@@ -1,6 +1,6 @@
 # 🎬 Projeto Show Movie
 
-O **Show Movie** é um aplicativo web que consome uma API de filmes para exibir informações como imagem, sinopse, avaliação e trailer. O usuário pode visualizar uma lista de lançamentos, salvar filmes favoritos e assistir trailers diretamente no YouTube.
+O **Show Movie** é um aplicativo web que consome uma **API**" https://api.themoviedb.org/3 " de filmes para exibir informações como imagem, sinopse, avaliação e trailer. O usuário pode visualizar uma lista de lançamentos, salvar filmes favoritos e assistir trailers diretamente no YouTube.
 
 ## 📌 Funcionalidades
 
