@@ -42,5 +42,5 @@ O **React-Toastify** foi utilizado para exibir mensagens de feedback ao usuário
 ![Filme](https://github.com/user-attachments/assets/7ac3931c-3312-4ada-aa5f-6270f034e83a)
 ![Favoritos](https://github.com/user-attachments/assets/3bcf1875-4954-4f8e-ad8a-96519b38e2d1)
 
-- ✅ Créditos: Matheus Fraga  
+
 - ✅ Api: "https://api.themoviedb.org/3"
